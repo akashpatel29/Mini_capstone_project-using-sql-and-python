@@ -1,1 +1,1 @@
-# Mini_capstone_project-using-sql-and-python
+# Mini capstone project using-sql-and-python
